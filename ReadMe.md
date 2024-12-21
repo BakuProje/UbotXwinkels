@@ -33,10 +33,10 @@ apt update && apt upgrade -y
 apt install ffmpeg -y
 ```
 ```
-git clone https://token_github@github.com/BakuProje/XwinkelsUbot.git && cd XwinkelsUbot
+git clone https://github.com/BakuProje/UbotXwinkels.git && cd UbotXwinkels
 ```
 ```
-screen -S XwinkelsUbot
+screen -S UbotXwinkels
 ```
 ```
 pip install --no-cache-dir -r requirements.txt
